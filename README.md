@@ -1,4 +1,4 @@
 # Ethical Concerns Surrounding Diversity And Representation In The Metaverse
 
 
-<img src="https://github.com/yourusername/repositoryname/blob/main/images/sunset.jpg" alt="A beautiful sunset" width="300">
+<img src="https://github.com/shriyadh/CS-Ethics_Metaverse/blob/main/RISE_Poster.jpg" height="600" width="1000">
